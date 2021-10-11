@@ -1,0 +1,24 @@
+1. Pokemon Team Builder
+    Use pokeapi to get info about all the pokemon, and let them add them to a team. 
+    They could make an account in order to save their team.
+    You could look up other users so you could compare teams.
+
+2. Workout Builder
+    Users can add exercises and how long they want to do them for.
+    Has a count down timer for each exercise in the workout.
+    Users could search for other workouts people have made
+
+3. Soccer Scores
+    Could probably find an api that sends results from Premiere League games.
+    Users could search for a team to see the results of their latest games.
+    Users could search for players to get thier statistics
+
+4. Calorie Tracker
+    Could probably find an api that has a lot of foods and the nutition info for them.
+    Users coudl searhc for foods and then add them to a meal. 
+    They could also subtract form a total numbur of calories they want to stay under
+
+5. Deals Forum
+    Users could add posts about cool deals they find with links to the site they found
+    You could log in in order to save deals you want to check out later
+    you coudl search for specific items that you want to find deals for
